@@ -1,0 +1,13 @@
+C:\Users\YunusD\Source\Repos\Stock2\StockMarket\StockMarket\bin\Debug\netcoreapp2.2\StockMarket.deps.json
+C:\Users\YunusD\Source\Repos\Stock2\StockMarket\StockMarket\bin\Debug\netcoreapp2.2\StockMarket.runtimeconfig.json
+C:\Users\YunusD\Source\Repos\Stock2\StockMarket\StockMarket\bin\Debug\netcoreapp2.2\StockMarket.runtimeconfig.dev.json
+C:\Users\YunusD\Source\Repos\Stock2\StockMarket\StockMarket\bin\Debug\netcoreapp2.2\StockMarket.dll
+C:\Users\YunusD\Source\Repos\Stock2\StockMarket\StockMarket\obj\Debug\netcoreapp2.2\StockMarket.csproj.CoreCompileInputs.cache
+C:\Users\YunusD\Source\Repos\Stock2\StockMarket\StockMarket\obj\Debug\netcoreapp2.2\StockMarket.RazorAssemblyInfo.cache
+C:\Users\YunusD\Source\Repos\Stock2\StockMarket\StockMarket\obj\Debug\netcoreapp2.2\StockMarket.RazorAssemblyInfo.cs
+C:\Users\YunusD\Source\Repos\Stock2\StockMarket\StockMarket\obj\Debug\netcoreapp2.2\StockMarket.AssemblyInfoInputs.cache
+C:\Users\YunusD\Source\Repos\Stock2\StockMarket\StockMarket\obj\Debug\netcoreapp2.2\StockMarket.AssemblyInfo.cs
+C:\Users\YunusD\Source\Repos\Stock2\StockMarket\StockMarket\obj\Debug\netcoreapp2.2\StockMarket.RazorTargetAssemblyInfo.cache
+C:\Users\YunusD\Source\Repos\Stock2\StockMarket\StockMarket\bin\Debug\netcoreapp2.2\StockMarket.pdb
+C:\Users\YunusD\Source\Repos\Stock2\StockMarket\StockMarket\obj\Debug\netcoreapp2.2\StockMarket.dll
+C:\Users\YunusD\Source\Repos\Stock2\StockMarket\StockMarket\obj\Debug\netcoreapp2.2\StockMarket.pdb
